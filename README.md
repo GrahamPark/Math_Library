@@ -1,2 +1,2 @@
 # Math_Library
- A highly templated math library used for graphic engines.
+ A templated math library used for graphic engines.
